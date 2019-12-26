@@ -22,19 +22,22 @@ cube = [[['b','b','b'],
         
         
 # Functions for moving the cube
-def turnUp():
+# index1 indicates which side of the cube
+# index2 indicates the row
+# index3 indicates the column
+def turnUp(index1,index2,index3):
     #TODO
     pass
 
-def turnDown():
+def turnDown(index1,index2,index3):
     #TODO
     pass
 
-def turnRight():
+def turnRight(index1,index2,index3):
     #TODO
     pass
 
-def turnLeft():
+def turnLeft(index1,index2,index3):
     #TODO
     pass
 
